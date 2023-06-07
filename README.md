@@ -1,6 +1,7 @@
-# E-Commerce-Shipping-Data
-Exploratory Data Analysis
-Descriptive Statistics
+#Exploratory Data Analysis
+
+##Descriptive Statistics
+
 The column "Reached.on.Time_Y.N" should have a data type of object (boolean) because the variable represents categorical data where the value 1 means "no" and the value 0 means "yes."
 
 There are no columns with missing values. It can be observed from the above output that all columns have the same number of rows as the data, which is 10,999 rows.
