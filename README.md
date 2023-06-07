@@ -7,11 +7,11 @@
 
 - Columns with unusual summaries::
 
-- The "Weight in gms" column has a significant difference between the mean and median values, which is 515. This indicates that the variable has outliers.
+   - The "Weight in gms" column has a significant difference between the mean and median values, which is 515. This indicates that the variable has outliers.
  
-- The "Mode_of_Shipment" column has a skewed distribution because the category "Ship" dominates, making this feature less useful for classification.
+   - The "Mode_of_Shipment" column has a skewed distribution because the category "Ship" dominates, making this feature less useful for classification.
 
- - The "Discount_offered" column has a notable difference between the mean and median values, which is 9. This suggests that the variable has outliers. Additionally, considering the range from a minimum of 1 to a maximum of 65, the average is only 13.
+   - The "Discount_offered" column has a notable difference between the mean and median values, which is 9. This suggests that the variable has outliers. Additionally, considering the range from a minimum of 1 to a maximum of 65, the average is only 13.
 
 ## Univariate Analysis
 - Warehouse Block: The distribution of orders in blocks A, B, C, and D is relatively even, while block F has a significantly larger number of orders, reaching approximately twice the number of orders compared to other blocks.
